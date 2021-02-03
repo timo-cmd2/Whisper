@@ -1,2 +1,2 @@
 # Whisper
-An elegant, privacy-focused and secured messenger app for iOS
+An elegant, privacy-focused and secure messenger app for iOS
