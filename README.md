@@ -10,3 +10,11 @@ This implementation features:
 - full transparency
 - able to send messages (image, text, emoji)
 - homemade and hand-crafted by love
+
+> Note: This branch is still under heavy construction and not yet finished. I suggest not to use Whisper yet in production.
+
+```
+Licensed under the Creative Commons
+
+2021 Copyright Timo Sarkar and contributors
+```
