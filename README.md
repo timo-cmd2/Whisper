@@ -6,6 +6,7 @@ This implementation features:
 - support on Apple devices
 - elegant and simple UI
 - powerful encryption (end-to-end)
+- no access to the Servers (keys are inaccessible)
 - no third-party access to data
 - full transparency
 - able to send messages (image, text, emoji)
