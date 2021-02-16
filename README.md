@@ -3,7 +3,7 @@ An elegant, privacy-focused and secure messenger app for iOS. `wip`
 
 This implementation features:
 
-- support on  Apple devices
+- support on Apple devices
 - elegant and simple UI
 - powerful encryption (end-to-end)
 - no third-party access to data
@@ -13,9 +13,4 @@ This implementation features:
 
 > Note: This branch is still under heavy construction and not yet finished. I suggest not to use Whisper yet in production.
 
-```
-Licensed under the Creative Commons
-
-2021 Copyright Timo Sarkar and contributors
-```
 
